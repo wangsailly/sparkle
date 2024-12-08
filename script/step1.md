@@ -1,5 +1,5 @@
 ###
-
+setwd("") 
 expFile="PANexp.txt" 
 ###
 rt=read.table(expFile, header=T, sep="\t", check.names=F)
@@ -151,7 +151,7 @@ dev.off()
 
 expFile="survSigExp.txt"       
 clusterFile="Cluster.txt"      
-setwd("")     
+    
 
 ###
 rt=read.table(expFile, header=T, sep="\t", check.names=F)
