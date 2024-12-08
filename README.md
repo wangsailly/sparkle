@@ -23,7 +23,7 @@ Welcome to the **Sparkle Project** GitHub repository!
   cd sparkle
   ```
 
-2. Install the necessary dependencies(e.g., limma, reshape2):
+  2. Install the necessary dependencies(e.g., limma, reshape2):
 
 ​        install.packages("limma") 
 
